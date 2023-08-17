@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e293e48-66a5-4964-aa81-bc860f90a03e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Messages_Section23ConcurrencyInJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cor/lan/Main.java" afterDir="false" />
+    <list default="true" id="2e293e48-66a5-4964-aa81-bc860f90a03e" name="Changes" comment="Section 23.398(Concurrency in Java: Producer and Consumer): introduction to terms &quot;critical section&quot;, &quot;thread safe&quot;, keeping synchronize to a minimum; setting up code for next video">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cor/lan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cor/lan/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cor.lan.Main" />
+      <module name="Messages_Section23ConcurrencyInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cor.lan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692248519330</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 23.398(Concurrency in Java: Producer and Consumer): introduction to terms &quot;critical section&quot;, &quot;thread safe&quot;, keeping synchronize to a minimum; setting up code for next video">
+      <created>1692249031318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692249031318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 23.398(Concurrency in Java: Producer and Consumer): introduction to terms &quot;critical section&quot;, &quot;thread safe&quot;, keeping synchronize to a minimum; setting up code for next video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 23.398(Concurrency in Java: Producer and Consumer): introduction to terms &quot;critical section&quot;, &quot;thread safe&quot;, keeping synchronize to a minimum; setting up code for next video" />
   </component>
 </project>
